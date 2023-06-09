@@ -5,5 +5,7 @@
 
 ## Requirements
 
-- [pre-commit](https://pre-commit.com/) (`pip install pre-commit`)
-- `yamllint` (`pip install --user yamllint`)
+- [pre-commit](https://pre-commit.com/)
+  - `pip install pre-commit`
+- [yamllint](https://github.com/adrienverge/yamllint)
+  - `pip install yamllint`
