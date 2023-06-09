@@ -1,3 +1,6 @@
 {
-  "recommendations": ["EditorConfig.EditorConfig"]
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "marklarah.pre-commit-vscode"
+  ]
 }

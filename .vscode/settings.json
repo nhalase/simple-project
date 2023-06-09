@@ -1,1 +1,6 @@
-{}
+{
+  "files.associations": {
+    "UNLICENSE": "plaintext",
+    "LICENSE": "plaintext"
+  }
+}
